@@ -2,5 +2,5 @@
 layout:slide
 tite: "Welcome to the second slide."
 ---
-this is my text here
+This text is new now
 Use the left arrow to return
